@@ -6,7 +6,7 @@
 ! 
 !
 !-----------------------General advert blocking filters-----------------------!
-! *** Fetched from: https://raw.githubusercontent.com/easylist/easylist/master/easylist/easylist_general_block.txt ***
+! ***  from: https://raw.githubusercontent.com/XkaV/wtf/master/0o0ob3R_Vid.txt ***
 ##.ad-container
 ##.video-ads
 ##.ytp-ad-progress-list
